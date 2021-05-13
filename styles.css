@@ -1,0 +1,56 @@
+select{
+	font-size: 18px;
+	border-radius: 5px;
+	padding: 10px 8px 10px 14px;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.6);
+	width: 50%;
+	margin:auto;
+}
+
+.dropdownlist{
+	margin:auto;
+	width:40%;
+	display: flex;
+	padding-bottom: 5%;
+}
+
+body{
+	font-family: Arial;
+	font-size: 20px;
+	background-repeat: no-repeat;
+	background-image: linear-gradient(to bottom right, orange, yellow);
+	height: 100%;
+}
+
+html{
+	height: 100%;
+}
+
+h1{
+	text-align:center;
+}
+
+
+th{
+	height: 100px;
+	background-color:#ff8f00;
+}
+
+table{
+	border-collapse: collapse;
+	position: absolute;
+	text-align: center;
+	left: 40%;
+	width: 40%;
+}
+
+.weatherdetails{
+	display: inline;
+}
+
+img{
+	position: absolute;
+	right: 65%;
+	height: 95px;
+	width: auto;	
+}
